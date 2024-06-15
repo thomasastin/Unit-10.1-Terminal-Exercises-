@@ -1,0 +1,22 @@
+1. What does the man command do? Type in man rm. How do you scroll and get out?
+The man command lists the manual for a command or Control ^-D to advance half a page B or Control ^-B to go back one page U or Control^-U to go back half a page.
+2. Look at the man page for ls. What does the -l flag do? What does the -a flag do? When you use ls -l, it displays detailed information about files and directories in a columnar format. When you use ls -a, it lists all files, including hidden files.
+
+3. How do you jump between words in the terminal? You jump between words with option left/right.
+
+4. How do you get to the end of a line in terminal? Control + E
+
+5. How do you move your cursor to the beginning in terminal? Control + A
+
+6. How do you delete a word (without pressing backspace multiple times) in terminal? You delete a word in the terminal by pressing option + delete.
+
+7. What is the difference between a terminal and shell?
+A terminal is a text input and output environment. It’s a program that allows you to run a shell. The shell is a command-line interpreter, it processes commands and returns output.
+8. What is an absolute path?
+An absolute path refers to the complete details needed to locate a file or folder within a computer’s file system. It starts from the root directory and includes all directories in the path, ending with the desired file or folder.
+9. What is an relative path?
+A relative path is a hierarchical path that locates a file or folder within a file system starting from the current directory.
+10. What is a flag? Give three examples of flags you have used.
+In the context of command-line interfaces (CLI) and programming, a flag (also known as an option or switch) modifies the behavior of a command or program. We have seen -a and -l for the ls command and -r for the cp and rm commands.
+11. What do the r and f flags do with the rm command? r recursively removes directories and their contents and deletes files, subdirectories, and hidden files within the specified directory. f will force deletion without prompting for confirmation.
+
